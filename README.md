@@ -1,4 +1,4 @@
-### Olá, eu sou o Ricardo Cardoso Pompêo.
+### Olá, é muito bom ter você por aqui. Me chamo Ricardo, sou desenvolvedor mobile e amante das linhas de código!
 
 <!--
 **rcdo-dev/rcdo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

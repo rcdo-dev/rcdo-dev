@@ -5,10 +5,10 @@ Sou um __desenvolvedor entusiasmado__ cursando Análise e Desenvolvimento de Sis
 Buscando a superação, realizo cursos especializados no desenvolvimento mobile além da graduação mencionada.
 
 CURSOS EM ANDAMENTO | CONTEÚDO | PLATAFORMA
-:-------------------|:---------:|:----------:
+:-------------------:|:---------:|:----------:
 Dart language | Do básico ao avançado + Api Rest! | Udemy
 Flutter | Ignite - Bootcamp imersivo de Flutter | Rocketseat
-UML | Guia Básico para Análise e Projeto de Sistemas | Udemy
+UML | Guia para análise e projeto de sistemas | Udemy
 
 ESTATÍSTICAS | LINGUAGENS
 :--------------------:| :----------:

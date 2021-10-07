@@ -6,10 +6,10 @@ Buscando a superação, realizo cursos especializados no desenvolvimento mobile 
 
 ESTUDOS EM ANDAMENTO | CONTEÚDO | PLATAFORMA
 :-------------------:|:---------:|:----------:
+Orientação a Objetos | Conceitos e Aplicabilidades | Livro
 Dart language | Do básico ao avançado + Api Rest! | Udemy
 Flutter | Ignite - Bootcamp imersivo de Flutter | Rocketseat
 UML | Guia para análise e projeto de sistemas | Udemy
-Orientação a Objetos | Conceitos e Aplicabilidades | Livro
 
 ESTATÍSTICAS | LINGUAGENS
 :--------------------:| :----------:

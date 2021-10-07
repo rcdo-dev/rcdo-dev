@@ -1,6 +1,7 @@
 ### O seu maior concorrente é você mesmo! Supere-se, a todo momento...
 
 ---
+Sou um desenvolvedor entusiasmado cursando Análise e Desenvolvimento de Sistemas na FATEC de Mogi das Cruzes-SP. Buscando a superação, realizo cursos especializados no desenvolvimento mobile além da graduação mencionada.
 
 ESTATÍSTICAS | LINGUAGENS
 :--------------------:| :----------:

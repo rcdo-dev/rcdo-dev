@@ -5,10 +5,10 @@ Sou um __desenvolvedor entusiasmado__ cursando Análise e Desenvolvimento de Sis
 Buscando a superação, realizo cursos especializados no desenvolvimento mobile além da graduação mencionada.
 
 CURSOS EM ANDAMENTO | CONTEÚDO | PLATAFORMA
-:-------------------|:---------|:----------:
+:-------------------:|:---------:|:----------:
 Dart language | Do básico ao avançado + Api Rest! | Udemy
-Flutter | Ignite | Rocketseat
-Flutter & Dart | Leonardo Moura Leitão | Udemy
+Flutter & Dart | Das variáveis em Dart aos Widgets do Flutter | Udemy
+Flutter | Ignite - Bootcamp imersivo de Flutter | Rocketseat
 
 ESTATÍSTICAS | LINGUAGENS
 :--------------------:| :----------:

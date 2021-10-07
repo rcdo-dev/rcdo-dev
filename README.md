@@ -6,9 +6,9 @@ Buscando a superação, realizo cursos especializados no desenvolvimento mobile 
 
 CURSOS EM ANDAMENTO | CONTEÚDO | PLATAFORMA
 :-------------------|:---------|:----------:
-* Dart language | Do básico ao avançado + Api Rest! | Udemy
-* Flutter | Ignite | Rocketseat
-* Flutter & Dart | Leonardo Moura Leitão | Udemy
+Dart language | Do básico ao avançado + Api Rest! | Udemy
+Flutter | Ignite | Rocketseat
+Flutter & Dart | Leonardo Moura Leitão | Udemy
 
 ESTATÍSTICAS | LINGUAGENS
 :--------------------:| :----------:

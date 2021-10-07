@@ -1,4 +1,4 @@
-### Olá, é muito bom ter você por aqui. Me chamo Ricardo, sou desenvolvedor mobile e amante das linhas de código!
+### O seu maior concorrente é você mesmo! Supere-se, a todo momento...
 
 ---
 

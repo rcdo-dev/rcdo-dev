@@ -1,5 +1,5 @@
 ### O seu maior concorrente é você mesmo! Supere-se, a todo momento...
-#### Sou um __desenvolvedor entusiasmado__ cursando Análise e Desenvolvimento de Sistemas na FATEC de Mogi das Cruzes-SP.
+#### Sou um desenvolvedor entusiasmado cursando Análise e Desenvolvimento de Sistemas na FATEC de Mogi das Cruzes-SP.
 ---
 Buscando a superação, realizo cursos especializados no desenvolvimento além da graduação mencionada.
 

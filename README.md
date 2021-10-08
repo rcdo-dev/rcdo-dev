@@ -11,10 +11,19 @@ Dart language | Do básico ao avançado + Api Rest | Udemy
 Flutter | Ignite - Bootcamp imersivo de Flutter | Rocketseat
 UML | Guia para análise e projeto de sistemas | Udemy
 
+### Mídias Sociais
+
+<a href="https://www.linkedin.com/in/rcdo-dev/" title="Linkedin"><img src="icones/linkedin.png" /></a>
+<a href="" title="GitHub"><img src="icones/github.png" /></a>
+
 ### Desenvolvimento
 
 <a href="https://dart.dev/" title="Dart"><img src="icones/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icones/flutter.png" /></a>
+<a href="https://developer.android.com/" title="Android"><img src="icones/android-studio.png" /></a>
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="icones/vscode.png" /></a>
+<a href="" title="Git"><img src="icones/git.png" /></a>
+<a href="" title="UML"><img src="icones/uml.png" /></a>
 
 |ESTATÍSTICAS | LINGUAGENS|
 |:---:| :---:|

@@ -5,7 +5,7 @@ Buscando a superação, realizo cursos especializados no desenvolvimento além d
 
 |ESTUDOS EM ANDAMENTO | CONTEÚDO | PLATAFORMA|
 |:---:|:---:|:---:|
-Orientação a Objetos | Conceitos e Aplicabilidades | Livro
+Orientação a Objetos | Conceitos e aplicabilidades | Livro de estudos
 Dart language | Do básico ao avançado + Api Rest | Udemy
 Flutter | Ignite - Bootcamp imersivo de Flutter | Rocketseat
 UML | Guia para análise e projeto de sistemas | Udemy

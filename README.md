@@ -1,8 +1,9 @@
 ### O seu maior concorrente é você mesmo! Supere-se, a todo momento...
-
 ---
-Sou um __desenvolvedor entusiasmado__ cursando Análise e Desenvolvimento de Sistemas na FATEC de Mogi das Cruzes-SP.<br/>
-Buscando a superação, realizo cursos especializados no desenvolvimento mobile além da graduação mencionada.
+Sou um __desenvolvedor entusiasmado__ cursando Análise e Desenvolvimento de Sistemas na FATEC de Mogi das Cruzes-SP.
+<br/>
+<br/>
+Buscando a superação, realizo cursos especializados no desenvolvimento além da graduação mencionada.
 
 |ESTUDOS EM ANDAMENTO | CONTEÚDO | PLATAFORMA|
 |:---:|:---:|:---:|
@@ -29,4 +30,4 @@ UML | Guia para análise e projeto de sistemas | Udemy
 |:---:| :---:|
 [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcdo-dev&hide=contribs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcdo-dev&layout=compact&theme=chartreuse-dark)](https://github.com/rcdo-dev/github-readme-stats)
 
-Créditos estatísticas e linguagens: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+Créditos estatísticas e linguagens: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)

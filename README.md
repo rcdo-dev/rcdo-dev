@@ -13,7 +13,8 @@ UML | Guia para análise e projeto de sistemas | Udemy
 
 ### Desenvolvimento
 
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="icones/dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icones/flutter.png" /></a>
 
 |ESTATÍSTICAS | LINGUAGENS|
 |:---:| :---:|

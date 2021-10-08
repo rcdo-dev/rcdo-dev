@@ -1,8 +1,6 @@
 ### O seu maior concorrente é você mesmo! Supere-se, a todo momento...
+#### Sou um __desenvolvedor entusiasmado__ cursando Análise e Desenvolvimento de Sistemas na FATEC de Mogi das Cruzes-SP.
 ---
-Sou um __desenvolvedor entusiasmado__ cursando Análise e Desenvolvimento de Sistemas na FATEC de Mogi das Cruzes-SP.
-<br/>
-<br/>
 Buscando a superação, realizo cursos especializados no desenvolvimento além da graduação mencionada.
 
 |ESTUDOS EM ANDAMENTO | CONTEÚDO | PLATAFORMA|
@@ -11,6 +9,8 @@ Orientação a Objetos | Conceitos e Aplicabilidades | Livro
 Dart language | Do básico ao avançado + Api Rest | Udemy
 Flutter | Ignite - Bootcamp imersivo de Flutter | Rocketseat
 UML | Guia para análise e projeto de sistemas | Udemy
+
+---
 
 ### Mídias Sociais
 

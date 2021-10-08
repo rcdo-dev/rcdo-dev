@@ -31,6 +31,3 @@ UML | Guia para análise e projeto de sistemas | Udemy
 [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcdo-dev&hide=contribs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcdo-dev&layout=compact&theme=chartreuse-dark)](https://github.com/rcdo-dev/github-readme-stats)
 
 Créditos estatísticas e linguagens: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rcdo-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rcdo-dev?trk=profile-badge">Ricardo Cardoso Pompêo</a></div>

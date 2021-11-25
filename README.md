@@ -8,7 +8,7 @@ Buscando a superação, realizo cursos especializados no desenvolvimento além d
 Orientação a Objetos | Conceitos e aplicabilidades | Livro de estudos
 Dart language | Do básico ao avançado + Api Rest | Udemy
 Flutter | Ignite - Bootcamp imersivo de Flutter | Rocketseat
-UML | Guia para análise e projeto de sistemas | Udemy
+Idioma Inglês | Inglês para Brasileiros : Caminho a Fluência Acelerada 1 | Udemy
 
 ---
 

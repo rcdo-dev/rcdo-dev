@@ -21,7 +21,6 @@ Idioma Inglês | Inglês para Brasileiros : Caminho a Fluência Acelerada 1 | Ud
 
 <a href="https://dart.dev/" title="Dart"><img src="icones/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icones/flutter.png" /></a>
-<a href="https://developer.android.com/" title="Android"><img src="icones/android-studio.png" /></a>
 <a href="https://code.visualstudio.com/" title="VS Code"><img src="icones/vscode.png" /></a>
 <a href="#" title="Git"><img src="icones/git.png" /></a>
 <a href="#" title="UML"><img src="icones/uml.png" /></a>

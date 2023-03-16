@@ -3,12 +3,11 @@
 ---
 Buscando superação, realizo cursos e estudo livros técnicos especializados em desenvolvimento, além da graduação mencionada.
 
-|ESTUDOS EM ANDAMENTO | CONTEÚDO | PLATAFORMA|
-|:---:|:---:|:---:|
-Orientação a Objetos | Conceitos e aplicabilidades | Livro de estudos
-Dart language | Do básico ao avançado + Api Rest | Udemy
-Flutter | Ignite - Bootcamp imersivo de Flutter | Rocketseat
-Idioma Inglês | Inglês para Brasileiros : Caminho a Fluência Acelerada 1 | Udemy
+|Estudos em andamento | Livro | Autor | Editora
+|:---:|:---:|:---:|:---:|
+Paradigma orientado a Objetos | Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva | Thiago Leite e Carvalho | Casa do Código
+Dart language | O guia de Dart | Julio Bitencourt | Casa do Código
+SQL | SQL em 10 Minutos por Dia | Ben Forta | Novatec
 
 ---
 
@@ -23,7 +22,6 @@ Idioma Inglês | Inglês para Brasileiros : Caminho a Fluência Acelerada 1 | Ud
 <a href="https://flutter.dev/" title="Flutter"><img src="icones/flutter.png" /></a>
 <a href="https://code.visualstudio.com/" title="VS Code"><img src="icones/vscode.png" /></a>
 <a href="#" title="Git"><img src="icones/git.png" /></a>
-<a href="#" title="UML"><img src="icones/uml.png" /></a>
 
 |ESTATÍSTICAS | LINGUAGENS|
 |:---:| :---:|

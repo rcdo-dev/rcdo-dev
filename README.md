@@ -11,17 +11,12 @@ SQL | SQL em 10 Minutos por Dia | Ben Forta | Novatec
 
 ---
 
-### Mídias Sociais
-
-<a href="https://www.linkedin.com/in/rcdo-dev/" title="Linkedin"><img src="icones/linkedin.png" /></a>
-<a href="https://www.instagram.com/rcdo.dev/" title="Instagram"><img src="icones/instagram.png" /></a>
-
-### Desenvolvimento
+### Tecnologias
 
 <a href="https://dart.dev/" title="Dart"><img src="icones/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icones/flutter.png" /></a>
-<a href="https://code.visualstudio.com/" title="VS Code"><img src="icones/vscode.png" /></a>
 <a href="#" title="Git"><img src="icones/git.png" /></a>
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="icones/vscode.png" /></a>
 
 |ESTATÍSTICAS | LINGUAGENS|
 |:---:| :---:|

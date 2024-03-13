@@ -1,4 +1,4 @@
-##### Ricardo Cardoso Pompêo.
+# Ricardo Cardoso Pompêo.
 #### Entusiasta da programação e graduando em Análise e Desenvolvimento de Sistemas na FATEC de Ferraz de Vasconcelos-SP.
 ---
 Buscando superação, realizo cursos e estudo livros técnicos especializados em desenvolvimento, além da graduação mencionada.

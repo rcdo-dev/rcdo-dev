@@ -5,7 +5,7 @@ Além da graduação mencionada realizo o estudo de livros técnicos especializa
 
 |Estudos em andamento | Livro | Autor | Editora
 |:---:|:---:|:---:|:---:|
-Paradigma orientado a Objetos | Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva | Thiago Leite e Carvalho | Casa do Código
+Paradigma orientado a objetos | Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva | Thiago Leite e Carvalho | Casa do Código
 Dart language | O guia de Dart | Julio Bitencourt | Casa do Código
 SQL | SQL em 10 Minutos por Dia | Ben Forta | Novatec
 

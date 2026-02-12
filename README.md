@@ -17,9 +17,4 @@ SQL | SQL em 10 Minutos por Dia | Ben Forta | Novatec
 <a href="https://flutter.dev/" title="Flutter"><img src="icones/flutter.png" /></a>
 <a href="#" title="Git"><img src="icones/git.png" /></a>
 <a href="https://code.visualstudio.com/" title="VS Code"><img src="icones/vscode.png" /></a>
-
-|ESTATÍSTICAS | LINGUAGENS|
-|:---:| :---:|
-[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcdo-dev&hide=contribs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcdo-dev&layout=compact&theme=chartreuse-dark)](https://github.com/rcdo-dev/github-readme-stats)
-
-Créditos estatísticas e linguagens: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://spring.io/" title="Spring"><img src="icones/spring-icon.svg" /></a>

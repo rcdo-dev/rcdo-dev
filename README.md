@@ -17,4 +17,3 @@ SQL | SQL em 10 Minutos por Dia | Ben Forta | Novatec
 <a href="https://flutter.dev/" title="Flutter"><img src="icones/flutter.png" /></a>
 <a href="#" title="Git"><img src="icones/git.png" /></a>
 <a href="https://code.visualstudio.com/" title="VS Code"><img src="icones/vscode.png" /></a>
-<a href="https://spring.io/" title="Spring"><img src="icones/spring-icon.svg" /></a>
